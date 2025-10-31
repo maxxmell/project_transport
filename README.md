@@ -55,7 +55,7 @@ project_transport/
 
 | Отчет | Формат | Назначение |
 |-------|--------|------------|
-| **Полный отчет HTML** | `.html` | Готовый отчет для просмотра [https://github.com/maxxmell/project_transport/blob/99de76bd7271cf928a7299791bec49391389e5f5/export/report_clean.html|
+| **Полный отчет HTML** | `.html` | Готовый отчет для просмотра |
 | **Исходный анализ** | `.ipynb` | Полный код анализа |
 
 ---
