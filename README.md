@@ -89,3 +89,10 @@ pip install -r requirements.txt
 
 # 3. Запустить
 jupyter notebook notebooks/metro_analysis.ipynb
+```
+
+## Автор
+**Сергей Толмачев** - Data Analyst
+
+---
+*Проект создан для демонстрации навыков анализа данных и визуализации.*
