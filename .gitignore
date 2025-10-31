@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/data-624.csv
+data/data-62523.csv
+data/data-62743.csv
+data/data-62888.csv
+data/sub/data-62207.csv
+data/sub/data-62741.csv
+data/sub/data-62745.csv
+data/sub/data-658.csv
